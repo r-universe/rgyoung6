@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "MACER",
+    "oncran": true
+  }
+]
