@@ -5,6 +5,9 @@
 [submodule "DBTC"]
 	path = DBTC
 	url = https://github.com/rgyoung6/dbtc
+[submodule "DBTCShiny"]
+	path = DBTCShiny
+	url = https://github.com/rgyoung6/dbtcshiny
 [submodule "MACER"]
 	path = MACER
 	url = https://github.com/rgyoung6/macer
